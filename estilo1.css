@@ -1,0 +1,28 @@
+*{
+    margin: 7;
+}
+.inicio{
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    width: 1550px;
+    height: 50px;
+    position: relative;
+    top:-100px ;
+}
+.imagenp1{
+    font-weight: bold;
+    image-orientation: flip;
+    text-align: center;
+    font-size: 30px;
+    width: 190px;
+    height: 150px;
+    }
+ .imagenp2{
+     font-size: 500px;
+     width: 1200px;
+     height: 1px;
+     text-align: right;
+     position: relative;
+     top: -20px;
+   }

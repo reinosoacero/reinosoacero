@@ -1,0 +1,39 @@
+*{
+    margin: 7;
+}
+.xd{
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    width: 1400px;
+    height: 50px;
+    position: relative;
+    top:-290px ;
+}
+.xd2{
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    width: 1400px;
+    height: 50px;
+    position: relative;
+    top:-140px ;
+}
+.xd3{
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    width: 2010px;
+    height: 50px;
+    position: relative;
+    top:-200px ;
+}
+.xd4{
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    width:2010px;
+    height: 50px;
+    position: relative;
+    top:-460px ;
+}

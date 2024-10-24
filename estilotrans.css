@@ -1,0 +1,13 @@
+*{
+    margin: 7;
+}
+.imagenp1{
+    font-weight: bold;
+    image-orientation: flip;
+    text-align: center;
+    font-size: 30px;
+    width: 1550px;
+    height: 150px;
+    position: relative;
+    top: -350px;
+    }
